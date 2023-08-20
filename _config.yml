@@ -1,8 +1,8 @@
 # global settings
-title: "GitHub and Government"
-description: "GitHub helps government build software better, together"
+title: "Refresher Course on Agroforestry"
+description: "A joint initiative from ICAR-CAFRI and Indian Society of Agroforestry"
 permalink: "/stories/:title"
-url: https://government.github.com
+url: https://agroforestry.github.com
 relative_permalinks: false
 
 # build settings
